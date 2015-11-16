@@ -1,4 +1,4 @@
-# Encrypt the data in azure storage using Azure Key Vault
+# Encrypt the data in Azure Storage using Azure Key Vault
 This encryption sample application demonstrates how to encrypt the data stored in storage blob using the encryption keys stored in azure key vault.
 ## How To Run This Sample
 To run this sample, you will need:
