@@ -1,6 +1,6 @@
-# Encrypt the data in Azure Storage using Azure Key Vault
-This encryption sample application demonstrates how to encrypt the data stored in storage blob using the encryption keys stored in azure key vault.
-## How To Run This Sample
+# Encrypt the data in azure storage using Azure Key Vault
+This sample application demonstrates how to encrypt the data stored in a storage blob using the encryption keys stored in Azure Key Vault.
+## How to run this sample
 To run this sample, you will need:
   •	Visual Studio 2013
   •	An Internet connection
@@ -16,7 +16,7 @@ Follow the https://azure.microsoft.com/en-us/documentation/articles/key-vault-ge
 You can follow the https://azure.microsoft.com/en-us/documentation/articles/storage-create-storage-account/ documentation for creating a storage account. 
 
 ## Step 3: Clone or download this repository
-From your shell (ie: Git Bash, etc.) or command line, run the following command :
+From your shell (ie: Git Bash, etc.) or command line, run the following command:
 git clone https://github.com/Azure-Samples/storage-dotnet-encryption-using-keyvault.git
 
 ## Step 4: Edit, build, and run the sample in Visual Studio 2013
@@ -30,7 +30,7 @@ After you clone or download the sample app, you will need to update the App.conf
 <add key="VaultUri" value="<>"/>
 
 
-When you finished, you should be able to successfully build and run the application, which will present a console UI which you can use for testing it.  
+After completing these steps you should be able to successfully build and run the application, which will present a console UI which you can use for testing. 
 
 
 ## About the code
