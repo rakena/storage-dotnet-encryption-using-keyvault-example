@@ -17,7 +17,7 @@ You can follow the https://azure.microsoft.com/en-us/documentation/articles/stor
 
 ## Step 3: Clone or download this repository
 From your shell (ie: Git Bash, etc.) or command line, run the following command:
-git clone https://github.com/Azure-Samples/storage-dotnet-encryption-using-keyvault.git
+git clone https://github.com/rakena/storage-dotnet-encryption-using-keyvault-example.git
 
 ## Step 4: Edit, build, and run the sample in Visual Studio 2013
 After you clone or download the sample app, you will need to update the App.config file with following details.
